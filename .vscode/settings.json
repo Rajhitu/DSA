@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "REVERSE_ARAY_DMA.C": "cpp",
+        "Q1_BST.C": "cpp",
+        "Q2_BINARY_TREE_ITERA.C": "cpp",
+        "Q3_QUEUE_USING_STACK.C": "cpp"
+    }
+}

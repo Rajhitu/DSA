@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "DLL.C": "cpp",
+        "q4_DLL.C": "cpp",
+        "q4_DLL+cdll.C": "cpp",
+        "random": "c"
+    }
+}
